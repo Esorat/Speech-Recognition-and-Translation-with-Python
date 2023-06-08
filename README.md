@@ -13,7 +13,7 @@ This repository contains a Python script that demonstrates how to perform speech
 
 **Installation:**
 
-1. Install FFmpeg and FFprobe:
+1. Install FFmpeg and Fprobe:
    - Ensure you have Homebrew installed on your system. If not, install Homebrew by following the instructions at https://brew.sh/.
    - Open a terminal and run the following commands:
      ```
