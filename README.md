@@ -33,11 +33,11 @@ This repository contains a Python script that demonstrates how to perform speech
 1. Specify the paths to FFmpeg and FFprobe executables in the script.
 2. Provide the input audio file in MP3 format (named "input.mp3") in the same directory as the script.
 
-(FOR USE DIFFERENT LANGUAGE CHANGE: language="en-US" and this: tts = gTTS(text=translated_text, lang="en") to see all avalible lang type:
+(FOR USE DIFFERENT LANGUAGE CHANGE: language="en-US" and here: lang="en" like example). 
+To see all avalible lang type:
 ```
 $ gtts-cli --all
  ```
-
 4. Run the script.
 5. The script will convert the input audio file to WAV format, recognize the speech using the Google Speech Recognition API, translate the text to a desired language using the Google Translate API, convert the translated text to speech using gTTS, and save the output audio file as "output.mp3".
 
