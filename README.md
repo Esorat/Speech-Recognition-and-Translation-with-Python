@@ -18,7 +18,7 @@ This repository contains a Python script that demonstrates how to perform speech
    - Open a terminal and run the following commands:
      ```
      brew install ffmpeg
-     brew install ffprobe
+     brew install fprobe
      ```
 
 2. Install the required Python packages:
